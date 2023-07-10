@@ -22,7 +22,7 @@ The Basic version comes with some drawbacks, however. It is only designed for 32
 
 ## Pro
 
-If you're looking for more control over your application, then go Pro! Unlike countless other applications out there that seem more concerned about their own **"job security"**, where the end user has to rely on the original developer for crucial updates, only to be left disappointed because the app's been abandoned or not touched for years, I thought I'd try a different route. Going pro gives you full access to the source code along with detailed instructions (which include illustrations for easier understanding as well as being written in 15 different languages) on how you can compile your own version with your own icons and various settings including:
+If you're looking for more control over your application, then go Pro! Unlike countless other applications out there that seem more concerned about their own **"job security"**, where the end user has to rely on the original developer for crucial updates, only to be left disappointed because the app's been abandoned or not touched for years; I thought I'd try a different route. Going pro gives you full access to the source code along with detailed instructions (which include illustrations for easier understanding as well as being written in 15 different languages) on how you can compile your own version with your own icons and various settings including:
 
 - minimise to tray
 - add minimised notification
