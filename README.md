@@ -43,12 +43,6 @@ To go Pro, simply go to the [php2desktop website](https://php2desktop/purchase),
 
 -----
 
-## Notes
-
-php2desktop Pro and the php2desktop website will be available from 11 July 2023. Until then, you can sill enjoy the **Basic** version of php2desktop by following the download instructions above. 
-
------
-
 ## Version
 
 1.0.0
