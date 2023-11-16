@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>x86;x64</Platforms>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Title>php2desktop</Title>
+    <Copyright>ozboware - 2023</Copyright>
+    <PackageProjectUrl>https://ozboware.co.uk</PackageProjectUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>php desktop exe</PackageTags>
+    <Authors>ozboware</Authors>
+    <Company>ozboware</Company>
+    <Product>php2desktop</Product>
+    <Description>Run PHP projects in an exe container</Description>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <PackageId>php2desktop</PackageId>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CefSharp.Wpf.NETCore" Version="114.2.100" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

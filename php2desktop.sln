@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "php2desktop", "php2desktop.csproj", "{45144466-D19B-4680-B1DE-3AAAD74D2479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Debug|x64.ActiveCfg = Debug|x64
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Debug|x64.Build.0 = Debug|x64
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Debug|x86.ActiveCfg = Debug|x86
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Debug|x86.Build.0 = Debug|x86
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Release|Any CPU.ActiveCfg = Release|x86
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Release|x64.ActiveCfg = Release|x64
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Release|x64.Build.0 = Release|x64
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Release|x86.ActiveCfg = Release|x86
+		{45144466-D19B-4680-B1DE-3AAAD74D2479}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0329F808-1B4C-48E4-A59C-D6BFDF45FF95}
+	EndGlobalSection
+EndGlobal
