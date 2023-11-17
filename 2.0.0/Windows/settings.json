@@ -1,0 +1,40 @@
+[
+  {
+    "PhpSettings": {
+      "FileName": "php/php.exe",
+      "WebDir": "www",
+      "CreateNoWindow": true,
+      "UseShellExecute": false
+    }
+  },
+  {
+    "WebViewSettings": {
+      "AllowHostObjects": true,
+      "DataFolder": "stored",
+      "EnableAcceleratorKeys": true,
+      "EnableBuiltInErrorPage": true,
+      "EnableDefaultContextMenu": true,
+      "EnableDefaultScriptDialogs": true,
+      "EnableDevTools": true,
+      "EnableGeneralAutofill": true,
+      "EnableJavaScript": true,
+      "EnablePasswordAutosave": true,
+      "EnablePinchZoom": true,
+      "EnableStatusBar": true,
+      "EnableSwipeNavigation": true,
+      "EnableWebMessage": true,
+      "EnableZoomControl": true,
+      "ReputationCheckingRequired": true,
+      "UserAgent": ""
+    }
+  },
+  {
+    "WindowSettings": {
+      "Width": 400,
+      "Height": 600,
+      "IsMaximised": false,
+      "Title": "php2desktop 2.0.0",
+      "Icon": "icon.ico"
+    }
+  }
+]
