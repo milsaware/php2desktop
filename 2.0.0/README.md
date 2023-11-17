@@ -12,7 +12,7 @@ Connect to APIs for interactive applications. Use your favourite framework such 
 
 ## Working with the source code
 
-This software was built using Visual Studio 2022 build tools and CefSharp. The instructions that follow were written for that specific VS version. That's not to say it won't work with other versions of Visual Studio, just that the methodology may vary depending on the version.
+This software was built using Visual Studio 2022 build tools and WebView2. The instructions that follow were written for that specific VS version. That's not to say it won't work with other versions of Visual Studio, just that the methodology may vary depending on the version.
 
 All you need is Visual Studio and 10 minutes, max.
 
