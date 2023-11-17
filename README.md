@@ -8,8 +8,6 @@ php2desktop gives developers the ability to create content rich native Windows G
 
 Connect to APIs for interactive applications. Use your favourite framework such as Bootstrap or Laravel and change nothing about your workflow ... Your imagination's your only limit.
 
-php2desktop comes in two different versions. 1.0.0 utilises CefSharp
-
 -----
 
 ## php2desktop 1.0.0
