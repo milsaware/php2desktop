@@ -2,14 +2,6 @@
 
 -----
 
-## About
-
-php2desktop gives developers the ability to create content rich native Windows GUI applications using web technologies they're familiar with.
-
-Connect to APIs for interactive applications. Use your favourite framework such as Bootstrap or Laravel and change nothing about your workflow ... Your imagination's your only limit.
-
------
-
 ## Working with the source code
 
 This software was built using Visual Studio 2022 build tools and CefSharp. The instructions that follow were written for that specific VS version. That's not to say it won't work with other versions of Visual Studio, just that the methodology may vary depending on the version.
@@ -59,15 +51,3 @@ x86 is the CPU build you chose earlier. The contents of this directory is your a
 Now go to https://windows.php.net/download#php-8.2 and download the zip of the version you wish to use that matches the CPU you've chosen for your build and extract its contents into the php directory you created for your app in the last step. If done right, php.exe should be available along with other files and directories withing the php directory itself.
 
 The final step is to add an index.php file to the **www** directory, fill it with Hello World! and run your exe file. That should be it.
-
------
-
-## Comments
-
-A drawback to the current solution is that it doesn't play MP4 videos by default. I have found a solution to this problem and am currently incorporating it into the next version which is going to be even more powerful, with more options and giving you the ability to create your own video players and change settings on the fly without having to play about too much with the code. That update should be ready before December 2023
-
------
-
-## Version
-
-1.0.0
