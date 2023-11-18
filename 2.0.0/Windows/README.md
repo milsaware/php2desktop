@@ -2,14 +2,6 @@
 
 -----
 
-## About
-
-php2desktop 2 gives developers the ability to create content rich native Windows GUI applications using web technologies they're familiar with.
-
-Connect to APIs for interactive applications. Use your favourite framework such as Bootstrap or Laravel and change nothing about your workflow ... Your imagination's your only limit.
-
------
-
 ## Working with the source code
 
 This software was built using Visual Studio 2022 build tools and CefSharp. The instructions that follow were written for that specific VS version. That's not to say it won't work with other versions of Visual Studio, just that the methodology may vary depending on the version.
@@ -59,9 +51,3 @@ Now go to https://windows.php.net/download#php-8.2 and download the zip of the v
 Run your .exe file. You should see the welcome message.
 
 Congratulations, you've just built your own app. Now all that's left to do is change the settings in your settings.json file located in the root directory of your app (if required) and to replace everything in the **www** directory with your own web files.
-
------
-
-## Version
-
-2.0.0
