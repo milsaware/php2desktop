@@ -13,3 +13,9 @@ Connect to APIs for interactive applications. Use your favourite framework such 
 ## Comments
 
 A drawback to the current solution is that it doesn't play MP4 videos by default. I have found a solution to this problem and have incorporated it into php2desktop 2 which is even more powerful, with more options and giving you the ability to create your own video players and change settings on the fly without having to play about too much with the code.
+
+-----
+
+## Version
+
+1.0.0
